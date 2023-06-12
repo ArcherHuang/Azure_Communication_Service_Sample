@@ -1,0 +1,24 @@
+{
+  "name": "azure_communication_service_sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArcherHuang/Azure_Communication_Service_Sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArcherHuang/Azure_Communication_Service_Sample/issues"
+  },
+  "homepage": "https://github.com/ArcherHuang/Azure_Communication_Service_Sample#readme",
+  "dependencies": {
+    "@azure/communication-email": "^1.0.0",
+    "dotenv": "^16.1.4"
+  }
+}
